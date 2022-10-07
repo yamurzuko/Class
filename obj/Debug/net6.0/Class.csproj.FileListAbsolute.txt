@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/Class/bin/Debug/net6.0/Class
+/Users/ugurcanyagmur/Projects/Class/bin/Debug/net6.0/Class.deps.json
+/Users/ugurcanyagmur/Projects/Class/bin/Debug/net6.0/Class.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/Class/bin/Debug/net6.0/Class.dll
+/Users/ugurcanyagmur/Projects/Class/bin/Debug/net6.0/Class.pdb
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.dll
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/refint/Class.dll
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.pdb
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/Class.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/Class/obj/Debug/net6.0/ref/Class.dll
